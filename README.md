@@ -18,7 +18,7 @@ Pillow (Image display in Tkinter)
 NumPy
 **Installation**
 Clone the repository:
-git clone https://github.com/msaaddii/SignBridge.git
+https://github.com/muhammad1maaz1/SignBridge
 cd SignBridge
 Create a virtual environment:
 
